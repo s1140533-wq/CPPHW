@@ -1,0 +1,10 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+	int age =38
+	string = "Bruce" ;
+	::cout<< "�~��:" << age << "�m�W:" << name << endl ;
+	return 0;
+}	
